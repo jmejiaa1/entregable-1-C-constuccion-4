@@ -29,5 +29,7 @@ descuento=(entrada*3)/100;
      Console.WriteLine("su edad es incorecta");
     
 }
+
+//juan diego mejia 
  
   

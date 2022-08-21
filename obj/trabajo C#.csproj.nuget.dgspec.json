@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\semestre 2022-2\\programacion IV\\trabajo C#\\trabajo C#.csproj": {}
+    "D:\\semestre 2022-2\\programacion IV\\trabajo C#\\entregable-1-C-constuccion-4\\trabajo C#.csproj": {}
   },
   "projects": {
-    "D:\\semestre 2022-2\\programacion IV\\trabajo C#\\trabajo C#.csproj": {
+    "D:\\semestre 2022-2\\programacion IV\\trabajo C#\\entregable-1-C-constuccion-4\\trabajo C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\semestre 2022-2\\programacion IV\\trabajo C#\\trabajo C#.csproj",
+        "projectUniqueName": "D:\\semestre 2022-2\\programacion IV\\trabajo C#\\entregable-1-C-constuccion-4\\trabajo C#.csproj",
         "projectName": "trabajo C#",
-        "projectPath": "D:\\semestre 2022-2\\programacion IV\\trabajo C#\\trabajo C#.csproj",
+        "projectPath": "D:\\semestre 2022-2\\programacion IV\\trabajo C#\\entregable-1-C-constuccion-4\\trabajo C#.csproj",
         "packagesPath": "C:\\Users\\DIEGO\\.nuget\\packages\\",
-        "outputPath": "D:\\semestre 2022-2\\programacion IV\\trabajo C#\\obj\\",
+        "outputPath": "D:\\semestre 2022-2\\programacion IV\\trabajo C#\\entregable-1-C-constuccion-4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DIEGO\\AppData\\Roaming\\NuGet\\NuGet.Config"
