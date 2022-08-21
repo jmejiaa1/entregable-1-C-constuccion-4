@@ -1,0 +1,15 @@
+D:\semestre 2022-2\programacion IV\trabajo C#\obj\Debug\net6.0\trabajo C#.csproj.AssemblyReference.cache
+D:\semestre 2022-2\programacion IV\trabajo C#\obj\Debug\net6.0\trabajo C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\semestre 2022-2\programacion IV\trabajo C#\obj\Debug\net6.0\trabajo C#.AssemblyInfoInputs.cache
+D:\semestre 2022-2\programacion IV\trabajo C#\obj\Debug\net6.0\trabajo C#.AssemblyInfo.cs
+D:\semestre 2022-2\programacion IV\trabajo C#\obj\Debug\net6.0\trabajo C#.csproj.CoreCompileInputs.cache
+D:\semestre 2022-2\programacion IV\trabajo C#\bin\Debug\net6.0\trabajo C#.exe
+D:\semestre 2022-2\programacion IV\trabajo C#\bin\Debug\net6.0\trabajo C#.deps.json
+D:\semestre 2022-2\programacion IV\trabajo C#\bin\Debug\net6.0\trabajo C#.runtimeconfig.json
+D:\semestre 2022-2\programacion IV\trabajo C#\bin\Debug\net6.0\trabajo C#.dll
+D:\semestre 2022-2\programacion IV\trabajo C#\bin\Debug\net6.0\trabajo C#.pdb
+D:\semestre 2022-2\programacion IV\trabajo C#\obj\Debug\net6.0\trabajo C#.dll
+D:\semestre 2022-2\programacion IV\trabajo C#\obj\Debug\net6.0\refint\trabajo C#.dll
+D:\semestre 2022-2\programacion IV\trabajo C#\obj\Debug\net6.0\trabajo C#.pdb
+D:\semestre 2022-2\programacion IV\trabajo C#\obj\Debug\net6.0\trabajo C#.genruntimeconfig.cache
+D:\semestre 2022-2\programacion IV\trabajo C#\obj\Debug\net6.0\ref\trabajo C#.dll
