@@ -1,5 +1,5 @@
 
-// punto 1 taller
+//punto 1 taller
 //Sebastian Rojas Gomez
 
 Console.WriteLine("ingrese los valores del primer semestrales del año");
